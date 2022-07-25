@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonardofsales
-- 👀 I’m interested in Pyhton, data science and journalismo.
+- 👀 I’m interested in Pyhton, data science and journalism.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on data journalismo projects.
+- 💞️ I’m looking to collaborate on data journalism projects.
 - 📫 How to reach me: leonardofsales@gmail.com
 
 <!---
